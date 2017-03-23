@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8EA2FCB71E83EA2C008D4721 /* CalculatorBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EA2FCB61E83EA2C008D4721 /* CalculatorBrain.swift */; };
 		8EB0177A1E757229004B1560 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB017791E757229004B1560 /* AppDelegate.swift */; };
 		8EB0177C1E757229004B1560 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB0177B1E757229004B1560 /* ViewController.swift */; };
 		8EB0177F1E757229004B1560 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8EB0177D1E757229004B1560 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8EA2FCB61E83EA2C008D4721 /* CalculatorBrain.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalculatorBrain.swift; sourceTree = "<group>"; };
 		8EB017761E757229004B1560 /* Calculator_Swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Calculator_Swift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8EB017791E757229004B1560 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8EB0177B1E757229004B1560 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				8EB017791E757229004B1560 /* AppDelegate.swift */,
 				8EB0177B1E757229004B1560 /* ViewController.swift */,
+				8EA2FCB61E83EA2C008D4721 /* CalculatorBrain.swift */,
 				8EB0177D1E757229004B1560 /* Main.storyboard */,
 				8EB017801E757229004B1560 /* Assets.xcassets */,
 				8EB017821E757229004B1560 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8EA2FCB71E83EA2C008D4721 /* CalculatorBrain.swift in Sources */,
 				8EB0177C1E757229004B1560 /* ViewController.swift in Sources */,
 				8EB0177A1E757229004B1560 /* AppDelegate.swift in Sources */,
 			);
@@ -302,6 +306,7 @@
 				8EB0178A1E757229004B1560 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
